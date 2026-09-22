@@ -24,12 +24,13 @@ Conditional approval. The illustrative base case produces approximately 2.50x gr
 
 ## Deliverables
 
-- [Investment committee memorandum](memo/clearlake-dnb-investment-memo.pdf)
-- [Illustrative LBO model](model/dnb-illustrative-lbo-model.xlsx)
-- [One-page transaction summary](summary/clearlake-dnb-transaction-summary.pdf)
-- [Source register](sources/source-register.xlsx)
-- [Business analysis](methodology/business-analysis.md)
-- [Modelling assumptions](methodology/modelling-assumptions.md)
+- [Investment committee memorandum](clearlake-dnb-investment-memo.pdf)
+- [Illustrative LBO model](dnb-illustrative-lbo-model.xlsx)
+- [One-page transaction summary](clearlake-dnb-transaction-summary.pdf)
+- [Source register](source-register.xlsx)
+- [Business analysis](business-analysis.md)
+- [Modelling assumptions](modelling-assumptions.md)
+- [Project charter](project-charter.md)
 
 ## Methodology and limitations
 
